@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
 :root {
   --primary: #bc4123;
@@ -27,21 +27,18 @@ button {
 }
 
 /* navbar */
-
+nav a.active {
+  color: red;
+}
 
 /* page content */
 
-
 /* help layout */
-
 
 /* faq */
 
-
 /* careers list */
 
-
 /* careers details */
-
 
 /* breadcrumbs */
